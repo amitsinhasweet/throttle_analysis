@@ -1,0 +1,5 @@
+dbname=production
+host=localhost
+port=5439
+user=amit_sinha
+rspw=vbxBdsX.cQMWbrJn!WPx6!YN
